@@ -1,2 +1,10 @@
-﻿  WindowsProject1.cpp
-  WindowsProject1.vcxproj -> C:\Users\stud\source\repos\WindowsProject1\Debug\WindowsProject1.exe
+﻿  Payment.cpp
+  ProductCatalog.cpp
+  ProductDecription.cpp
+  Register.cpp
+  Sale.cpp
+  SalesLineItem.cpp
+  Store.cpp
+  WindowsProject1.cpp
+  Создание кода...
+  WindowsProject1.vcxproj -> C:\Users\stud\source\repos\git\NextGen\WindowsProject1\Debug\WindowsProject1.exe

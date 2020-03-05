@@ -147,12 +147,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Business logic\Payment.h" />
+    <ClInclude Include="Business logic\ProductCatalog.h" />
+    <ClInclude Include="Business logic\ProductDescription.h" />
+    <ClInclude Include="Business logic\Register.h" />
+    <ClInclude Include="Business logic\Sale.h" />
+    <ClInclude Include="Business logic\SalesLineItem.h" />
+    <ClInclude Include="Business logic\Store.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="Business logic\Money.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="WindowsProject1.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Business logic\Payment.cpp" />
+    <ClCompile Include="Business logic\ProductCatalog.cpp" />
+    <ClCompile Include="Business logic\ProductDecription.cpp" />
+    <ClCompile Include="Business logic\Register.cpp" />
+    <ClCompile Include="Business logic\Sale.cpp" />
+    <ClCompile Include="Business logic\SalesLineItem.cpp" />
+    <ClCompile Include="Business logic\Store.cpp" />
+    <ClCompile Include="Business logic\Money.cpp" />
     <ClCompile Include="WindowsProject1.cpp" />
   </ItemGroup>
   <ItemGroup>
