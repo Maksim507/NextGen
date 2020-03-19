@@ -45,10 +45,10 @@
     <ClInclude Include="Business logic\SalesLineItem.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Business logic\Payment.h">
+    <ClInclude Include="domain\Money.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Business logic\Money.h">
+    <ClInclude Include="domain\Payment.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
@@ -74,10 +74,10 @@
     <ClCompile Include="Business logic\SalesLineItem.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Business logic\Payment.cpp">
+    <ClCompile Include="domain\Payment.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Business logic\Money.cpp">
+    <ClCompile Include="domain\Money.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
