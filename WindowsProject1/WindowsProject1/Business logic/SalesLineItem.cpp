@@ -1,9 +1,9 @@
 #include "SalesLineItem.h"
 
-SalesLineItem::SalesLineItem(ProductDecription desc, int quantity) {
-	this->quantity = quantity;
-	}
+//SalesLineItem::SalesLineItem(ProductDecription desc, int quantity) {
+	//this->quantity = quantity;
+	//}
 
-	int SalesLineItem::getSubtotal() {
-		return 0;
-	};
+	//int SalesLineItem::getSubtotal() {
+	//	return 0;
+	//};

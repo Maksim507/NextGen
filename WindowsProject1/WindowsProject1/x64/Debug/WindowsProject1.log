@@ -1,2 +1,7 @@
-﻿  SalesLineItem.cpp
+﻿  ProductCatalog.cpp
+C:\Users\пользователь\Downloads\PortableGit\NextGen\WindowsProject1\WindowsProject1\domain\ProductCatalog.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ProductDescription.cpp
+  SalesLineItem.cpp
+  ItemId.cpp
+  Создание кода...
   WindowsProject1.vcxproj -> C:\Users\пользователь\Downloads\PortableGit\NextGen\WindowsProject1\x64\Debug\WindowsProject1.exe

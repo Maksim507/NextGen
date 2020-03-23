@@ -148,27 +148,29 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="domain\Payment.h" />
-    <ClInclude Include="Business logic\ProductCatalog.h" />
-    <ClInclude Include="Business logic\ProductDescription.h" />
+    <ClInclude Include="domain\ProductCatalog.h" />
+    <ClInclude Include="domain\ProductDescription.h" />
     <ClInclude Include="Business logic\Register.h" />
     <ClInclude Include="Business logic\Sale.h" />
     <ClInclude Include="Business logic\SalesLineItem.h" />
     <ClInclude Include="Business logic\Store.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="domain\Money.h" />
+    <ClInclude Include="domain\ItemId.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="WindowsProject1.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="domain\Payment.cpp" />
-    <ClCompile Include="Business logic\ProductCatalog.cpp" />
-    <ClCompile Include="Business logic\ProductDecription.cpp" />
+    <ClCompile Include="domain\ProductCatalog.cpp" />
+    <ClCompile Include="domain\ProductDescription.cpp" />
     <ClCompile Include="Business logic\Register.cpp" />
     <ClCompile Include="Business logic\Sale.cpp" />
     <ClCompile Include="Business logic\SalesLineItem.cpp" />
     <ClCompile Include="Business logic\Store.cpp" />
     <ClCompile Include="domain\Money.cpp" />
+    <ClCompile Include="domain\ItemId.cpp" />
     <ClCompile Include="WindowsProject1.cpp" />
   </ItemGroup>
   <ItemGroup>
