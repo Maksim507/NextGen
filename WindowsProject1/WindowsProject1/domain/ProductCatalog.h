@@ -6,5 +6,6 @@ class ProductCatalog
 {
 private:
 	std::map<ItemId, ProductDecription> Map;
+	std::map<ItemId, ProductDecription>description;
 
 };
